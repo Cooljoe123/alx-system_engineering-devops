@@ -1,1 +1,1 @@
-script to display the current directory contents
+/tmp/mkdir my_first_directory
